@@ -1,0 +1,25 @@
+body {
+    color: tomato;
+}
+.info a {
+    color: rgb(35, 131, 64);
+}
+.logo {
+    color: brown;
+}
+.heade a {
+    color: rgb(6, 235, 25);
+}
+button[type="button"] {
+    color: #FFFFFF;
+    background-color: #2196F3;
+    cursor: pointer;
+}
+.section p {
+    color: aqua;
+}
+.impotent {
+    color: white;
+}
+.header > li {
+    color: brown;
