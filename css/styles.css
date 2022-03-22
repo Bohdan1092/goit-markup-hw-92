@@ -1,11 +1,13 @@
 :root {
     --laber-bgr-color: #000000;
-    --social-footer-color: rgba(255, 255, 255, 0,6);
+    --social-footer-color: rgba(255, 255, 255, 0.6);
     --first-bloc-color: #ffffff;
     --label-first-part: ;
     --accent-text-color: #2196F3;
     --tatle-text-color: #212121;
+    --dark-bg-color: #2F303A;
 }
+
 .list {
     color: var(--tatle-text-color);
 }
@@ -16,4 +18,34 @@ color: var(--accent-text-color);
 .list {
     list-style: none;
 }
+.accent-text-color {
+    color: var(--accent-text-color);
+}
+.first-bloc-color {
+    color: var(--first-bloc-color);
+}
+.footer {
+    background-color: #2F303A;
+}
+.accent-text-color {
+    color: var(--accent-text-color);
+}
+.first-bloc-color {
+    color: var(--first-bloc-color);
+}
+.address {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+}
+.inform {
+    color: var(--social-footer-color);
 
+}
+.peaple h3 {
+    color: red;
+}
